@@ -1,0 +1,3 @@
+﻿  console_organiser.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  console_organiser.vcxproj -> C:\Users\K32\Documents\cpp_projects\projects\console_organiser\x64\Debug\console_organiser.exe
